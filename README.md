@@ -1,0 +1,3 @@
+Basic ActiveRecord with Rspec
+
+
